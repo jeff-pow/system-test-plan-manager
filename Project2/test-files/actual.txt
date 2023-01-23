@@ -1,0 +1,6 @@
+! TestPlanName
+# testcaseid,testtype
+* desc
+* results
+- PASS: passed
+- FAIL: didnt pass
