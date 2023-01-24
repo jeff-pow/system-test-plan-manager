@@ -1,6 +1,6 @@
 # System Test Plan Manager
 
-Program was created as a school assignment in a group of two. It stores information regarding system 
+Program was created as a school assignment. It stores information regarding system 
 tests as well as a history of tests that have previously been run, so users can see how their tests
 have progressed over time. It is capable of reading and writing program state to formatted files to 
 preserve program state.
